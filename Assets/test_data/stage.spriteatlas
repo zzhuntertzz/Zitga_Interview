@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: stage
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9d07bc04b09dedd4d87350a9958f78b1, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 85bf650012fff3d4f900f0d09f1c0c34, type: 3}
+  - {fileID: 21300000, guid: e59f15037c0ebde4aa8766fd066bfb41, type: 3}
+  - {fileID: 21300000, guid: 741b48d58ae5fd1489612f25b4e109af, type: 3}
+  - {fileID: 21300000, guid: 70c51b06cf0c83e4c8826306f7a563aa, type: 3}
+  - {fileID: 21300000, guid: e1900036b1b8b1f459f7b61983fa4f74, type: 3}
+  - {fileID: 21300000, guid: 8799b5b6546b3304ebdeeb35644ebbb4, type: 3}
+  - {fileID: 21300000, guid: e8dd03684ff33064f9f97a8893c32c4a, type: 3}
+  - {fileID: 21300000, guid: a3d1c9aacf7ea68438b40f7413ce025d, type: 3}
+  - {fileID: 21300000, guid: de8f66de433f4df4b9b55717bfdf8d6c, type: 3}
+  - {fileID: 21300000, guid: e6c6f6de146d70d4ba86a13f33a6a711, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - stage_lock
+  - darkmode_stage
+  - stage_star1
+  - tutorial
+  - stage_tree
+  - line_h
+  - stage
+  - bg
+  - line_v
+  - stage_star2
+  m_Tag: stage
+  m_IsVariant: 0
